@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Assignment#5</string>
+
+    <string-array name="clg_array">
+        <item>Centennial College</item>
+        <item>Seneca College</item>
+        <item>Humber College</item>
+        <item>Sheridan College</item>
+
+    </string-array>
+
+    <string-array name="centennial_latitude">
+        <item>43.784157</item>
+        <item>43.786320</item>
+        <item>43.730862</item>
+        <item>43.684610</item>
+    </string-array>
+
+    <string-array name="centennial_longitude">
+        <item>-79.228638</item>
+        <item>-79.193119</item>
+        <item>-79.290155</item>
+        <item>-79.348940</item>
+    </string-array>
+
+    <string-array name="seneca_latitude">
+        <item>43.718298</item>
+        <item>43.955153</item>
+        <item>43.850206</item>
+        <item>43.796510</item>
+        <item>43.796510</item>
+    </string-array>
+
+    <string-array name="seneca_longitude">
+        <item>-79.509804</item>
+        <item>-79.518580</item>
+        <item>-79.367113</item>
+        <item>-79.347558</item>
+        <item>-79.347558</item>
+    </string-array>
+
+    <string-array name="humber_latitude">
+        <item>43.728632</item>
+        <item>43.595897</item>
+        <item>43.905973</item>
+    </string-array>
+
+    <string-array name="humber_longitude">
+        <item>-79.608413</item>
+        <item>-79.515036</item>
+        <item>-79.125404</item>
+    </string-array>
+
+    <string-array name="sheridian_latitude">
+        <item>43.656094</item>
+        <item>43.591075</item>
+        <item>43.469015</item>
+    </string-array>
+
+    <string-array name="sheridian_longitude">
+        <item>-79.739527</item>
+        <item>-79.647047</item>
+        <item>-79.698624</item>
+    </string-array>
+    <string name="title_activity_campus_location">Map</string>
+
+
+</resources>
